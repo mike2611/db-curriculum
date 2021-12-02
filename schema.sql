@@ -56,7 +56,7 @@ CREATE TABLE specializations(
 
 CREATE TABLE visits(
  id  INT GENERATED ALWAYS AS IDENTITY,
- species_id INT REFERENCES animals(id) ON  DELETE CASCADE,
+ animals_id INT REFERENCES animals(id) ON  DELETE CASCADE,
  vet_id INT REFERENCES vets(id) ON DELETE CASCADE,
  date_of_visit DATE,
  PRIMARY KEY (id)
