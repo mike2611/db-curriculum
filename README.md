@@ -3,7 +3,7 @@
 
 > This template is used for database-related projects at Microverse.a
 
-## Database Schema Diagram
+## Entity Relationship Diagram
 
 https://lucid.app/lucidchart/0452fc33-69fa-4a8a-99e5-42307d59d1dd/edit?viewport_loc=-1159%2C-1290%2C4152%2C1996%2C0_0&invitationId=inv_00ed09ab-8835-46ed-9032-9325be53a1f5
 
