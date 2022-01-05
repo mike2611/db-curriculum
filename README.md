@@ -1,7 +1,6 @@
 # curriculum-databases-project
 
 
-> This template is used for database-related projects at Microverse.a
 
 ## Entity Relationship Diagram
 
